@@ -1,4 +1,4 @@
-# Data_Analyst
+# Data_Analyst Projects
 
 # [Project No 1: Analyzing Ecommerce Sales Trends with Power Bi](https://github.com/tariqahmedproject/salesdashboard/blob/main/README.md)
 
